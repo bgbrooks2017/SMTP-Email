@@ -1,5 +1,5 @@
 # SMTP-Email
-An SMTP email server and client created in Python. Run both programs in a terminal.
+A SMTP email server and client created in Python. Run both programs in a terminal.
 
 
 example server run: 'Python ServerEC.py 'Server-port-number''
